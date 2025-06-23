@@ -3,4 +3,5 @@
 
 Disclaimer: The injector and DLL of the vape-v4.16-cracked version are confirmed to be free of viruses and backdoors. However, using the vape-v4.16-cracked version may cause heating of the computer's CPU and graphics card. Please refrain from using it if you cannot tolerate the potential consequences. The following are the detection results from the malicious file platform.
 
-<img width="878" alt="image" src="https://github.com/user-attachments/assets/096c43c6-9b46-47e8-8c0c-009cce07b0e1" />
+![Uploading image.png…]()
+
